@@ -1,0 +1,13 @@
+{
+    "name": "wilder/twig",
+    "description": "twig quete",
+    "authors": [
+        {
+            "name": "Geoffrey BEDLE",
+            "email": "geoffrey.bedle@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^2.7"
+    }
+}
